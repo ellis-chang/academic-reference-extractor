@@ -1,0 +1,14 @@
+# NOTE: This file lists the dependencies that was used to complete the project at the time.
+# It is recommended to create a virtual environment and install these exact versions to ensure compatibility.
+# You can install the dependencies using:
+# pip install -r requirements.txt
+
+# Core PDF processing libraries
+pdfplumber~=0.11.7
+
+# Data handling
+pandas~=2.3.2
+openpyxl~=3.1.5
+
+# Environment variables
+python-dotenv>=1.2.1
